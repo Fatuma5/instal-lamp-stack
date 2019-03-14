@@ -1,1 +1,1 @@
-# instal-lamp-stack
+# install-lamp-stack
